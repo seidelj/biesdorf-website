@@ -86,6 +86,9 @@
   --bs-accent-green: #2E7D32;  /* Emerald Green for accents, highlights */
   --bs-text-color: #4A4A4A;    /* Charcoal Gray for body text / secondary elements */
   --bs-bg-color: #F9FAFB;      /* Soft White background */
+  --bs-secondary: #4A4A4A;       /* Charcoal Gray for secondary elements */
+  --bs-primary-hover: #153056;
+
 
   /* RGB versions */
   --bs-primary-rgb: 27, 54, 93;
@@ -93,6 +96,7 @@
   --bs-accent-green-rgb: 46, 125, 50;
   --bs-text-color-rgb: 74, 74, 74;
   --bs-bg-color-rgb: 249, 250, 251;
+  --bs-secondary-rgb: 74, 74, 74;
 
   /* Fonts */
   --bs-font-sans-serif: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
